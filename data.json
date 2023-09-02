@@ -1,0 +1,142 @@
+{
+    "messages": [
+        {
+            "id": 1,
+            "author": "Igor Stravinsky",
+            "quote": "Lesser artists borrow, great artists steal.",
+            "date": "1882"
+        },
+        {
+            "id": 2,
+            "author": "J.S. Bach",
+            "quote": "I was obliged to be industrious. Whoever is equally industrious will succeed equally well.",
+            "date": "1715"
+        },
+        {
+            "id": 3,
+            "author": "Robert Schumann",
+            "quote": "To send light into the darkness of men's hearts - such is the duty of the artist.",
+            "date": "1840"
+        },
+        {
+            "id": 4,
+            "author": "Dmitri Shostakovich",
+            "quote": "A creative artist works on his next composition because he was not satisfied with his previous one.",
+            "date": "1936"
+        },
+        {
+            "id": 5,
+            "author": "Elvis Presley",
+            "quote": "The truth is like the sun. You can shut it out for a time, but it ain't goin' away.",
+            "date": "1965"
+        },
+        {
+            "id": 6,
+            "author": "Mick Jagger",
+            "quote": "Lose your dreams and you might lose your mind.",
+            "date": "1973"
+        },
+        {
+            "id": 7,
+            "author": "BB King",
+            "quote": "The beautiful thing about learning is that nobody can take it away from you.",
+            "date": "1955"
+        },
+        {
+            "id": 8,
+            "author": "Bob Marley",
+            "quote": "One good thing about music, when it hits you, you feel no pain.",
+            "date": "1975"
+        },
+        {
+            "id": 9,
+            "author": "Pablo Casals",
+            "quote": "Music is the divine way to tell beautiful, poetic things to the heart.",
+            "date": "1906"
+        },
+        {
+            "id": 10,
+            "author": "Billy Joel",
+            "quote": "I think music in itself is healing. It's an explosive expression of humanity. It's something we are all touched by. No matter what culture we're from, everyone loves music.",
+            "date": "1979"
+        },
+        {
+            "id": 11,
+            "author": "John Lennon",
+            "quote": "Life is what happens when you’re making other plans.",
+            "date": "1970"
+        },
+        {
+            "id": 12,
+            "author": "Marcus Miller",
+            "quote": "It's a great thing about being a musician; you don't stop until the day you die, you can improve. So it's a wonderful thing to do.",
+            "date": "1989"
+        },
+        {
+            "id": 13,
+            "author": "Thelonious Monk",
+            "quote": "All musicians are potential band leaders.",
+            "date": "1947"
+        },
+        {
+            "id": 14,
+            "author": "Sting",
+            "quote": "If you play music with passion and love and honesty, then it will nourish your soul, heal your wounds and make your life worth living. Music is its own reward.",
+            "date": "1981"
+        },
+        {
+            "id": 15,
+            "author": "Ludwig van Beethoven",
+            "quote": "Music is a higher revelation than all wisdom and philosophy. Music is the electrical soil in which the spirit lives, thinks and invents.",
+            "date": "1800"
+        },
+        {
+            "id": 16,
+            "author": "Bono (U2)",
+            "quote": "Music can change the world because it can change people.",
+            "date": "1990"
+        },
+        {
+            "id": 17,
+            "author": "Carlos Santana",
+            "quote": "Just as Jesus created wine from water, we humans are capable of transmuting emotion into music.",
+            "date": "1977"
+        },
+        {
+            "id": 18,
+            "author": "John Denver",
+            "quote": "Music does bring people together. It allows us to experience the same emotions. People everywhere are the same in heart and spirit. No matter what language we speak, what color we are, the form of our politics or the expression of our love and our faith, music proves: We are the same.",
+            "date": "1973"
+        },
+        {
+            "id": 19,
+            "author": "Plato",
+            "quote": "Music is the movement of sound to reach the soul for the education of its virtue.",
+            "date": "397 BC"
+        },
+        {
+            "id": 20,
+            "author": "Thomas Carlyle",
+            "quote": "Music is well said to be the speech of angels.",
+            "date": "1825"
+        },
+        {
+            "id": 21,
+            "author": "Roy Ayers",
+            "quote": "The true beauty of music is that it connects people. It carries a message, and we, the musicians, are the messengers.",
+            "date": "1970"
+        },
+        {
+            "id": 22,
+            "author": "William Congreve",
+            "quote": "Music hath charms to soothe the savage beast, to soften rocks or bend a knotted oak.",
+            "date": "1700"
+        },
+        {
+            "id": 23,
+            "author": "Oliver Wendell Holmes",
+            "quote": "Take a music bath once or twice a week for a few seasons, and you will find that it is to the soul what the water bath is to the body.",
+            "date": "1839"
+        }
+    ]
+}
