@@ -11,8 +11,17 @@ const randomAuthor = (database) => {
     return database.quotes[pickRandomIndex].author;
 }
 
-//function test - SyntaxError: Cannot use import statement outside a module
+//function test
 console.log(randomAuthor(quoteDatabase));
+
+//create a function to select a random `technology`
+const randomTech = (database) => {
+    let pickRandomIndex = Math.floor(Math.random() * 29);
+    return database.quotes[pickRandomIndex].technology;
+}
+
+//function test
+console.log(randomTech(quoteDatabase));
 
 //use it later
 //const messageGenerator = (author, quote, technology) => {
