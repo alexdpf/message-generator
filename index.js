@@ -47,8 +47,14 @@ const finalQuote = swapTechValue.replace('(technology)', `${randomTech(quoteData
 //7. function to prints message combining three different pieces of data.
 //9. refactor messageGenerator function
 const messageGenerator = () => {
-    console.log(`${finalQuote}.
+    return (`${finalQuote}.
     ${randomAuthor(quoteDatabase)}`);
 }
 
 messageGenerator(quoteDatabase)
+
+document.getElementById('generateBtn').addEventListener('click', () => {
+    // Call your messageGenerator function here
+    const message = messageGenerator();
+    document.getElementById('messageOutput').textContent = message;
+});
