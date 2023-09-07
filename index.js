@@ -32,3 +32,12 @@ const randomQuote = (database) => {
 
 //function randomQuote test
 console.log(randomQuote(quoteDatabase));
+
+//7. function to prints message combining three different pieces of data.
+const messageGenerator = (database) => {
+
+    console.log(`${randomAuthor(quoteDatabase)} + ${randomTech(quoteDatabase)} + ${randomQuote(quoteDatabase)}`);
+   // console.log(randomAuthor + randomTech + randomQuote);
+}
+
+messageGenerator(quoteDatabase)
