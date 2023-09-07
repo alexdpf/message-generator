@@ -41,10 +41,11 @@ const swapTechValue = randomQuote(quoteDatabase)
 const finalQuote = swapTechValue.replace('(technology)', `${randomTech(quoteDatabase)}`);
 
 //TEST function finalQuote
-console.log(`${finalQuote}.
-${randomAuthor(quoteDatabase)}`);
+//console.log(`${finalQuote}.
+//${randomAuthor(quoteDatabase)}`);
 
 //7. function to prints message combining three different pieces of data.
+//9. refactor messageGenerator function
 const messageGenerator = () => {
     console.log(`${finalQuote}.
     ${randomAuthor(quoteDatabase)}`);
