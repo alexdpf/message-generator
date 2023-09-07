@@ -1,3 +1,5 @@
+//1. Create a database - I created a template an asked GPT to do a database based on project requirements
+// id, author, quote, and technology
 const quoteDatabase = {
     "quotes": [
         {
@@ -182,5 +184,5 @@ const quoteDatabase = {
         }
     ]
 }
-
+//2. create Export function
 module.exports = { quoteDatabase };
