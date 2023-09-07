@@ -2,7 +2,8 @@
 //Randomly outputs a message combining three pieces of data being: {author}, {quote}, and {technology}
 
 //import object property values from data.js
-import {quotes: {author}} from './data.js';
+const {quoteDatabase} = require('./data.js');
+
 
 //create a function to select a random `author`
 const randomAuthor = () => {

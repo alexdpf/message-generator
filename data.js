@@ -183,3 +183,4 @@ const quoteDatabase = {
     ]
 }
 
+module.exports = { quoteDatabase };
