@@ -2,7 +2,10 @@
 //Randomly outputs a message combining three pieces of data being: {author}, {quote}, and {technology}
 
 //3. import quoteDatabase entirely  from data.js to work with object property values
-const {quoteDatabase} = require('./data.js');
+
+import {quoteDatabase} from "./data.js"
+
+// const quoteDatabase = require('./data.js');
 
 
 //4. create a function to select a random `author`
@@ -30,7 +33,7 @@ const randomQuote = (database) => {
     return database.quotes[pickRandomIndex].quote;
 }
 
-//TEST function randomQuote
+//TEST function randomQuote 
 //console.log(randomQuote(quoteDatabase));
 
 //8. create function to swap (technology) string inside `quote` property value for `technology` property value
@@ -47,11 +50,12 @@ const finalQuote = swapTechValue.replace('(technology)', `${randomTech(quoteData
 //7. function to prints message combining three different pieces of data.
 //9. refactor messageGenerator function
 const messageGenerator = () => {
-    return (`${finalQuote}.
+    return (`${randomQuote(quoteDatabase)}.
     ${randomAuthor(quoteDatabase)}`);
 }
 
 messageGenerator(quoteDatabase)
+console.log(messageGenerator())
 
 document.getElementById('generateBtn').addEventListener('click', () => {
     // Call your messageGenerator function here

@@ -185,4 +185,4 @@ const quoteDatabase = {
     ]
 }
 //2. create Export function
-module.exports = { quoteDatabase };
+export default quoteDatabase
